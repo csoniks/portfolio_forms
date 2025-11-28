@@ -1,0 +1,144 @@
+	.container1
+	{
+	    
+		position: absolute;
+		width: 1200px;
+		height: 1080px;
+		background: #F8F5EB;
+		}
+		
+		
+		.works{
+			position: absolute;
+			top: 52px;
+			left: 281px;
+			color: #75AAD9;
+			font-family: 'Actor', sans-serif;
+		font-family: 'Marck Script', cursive;
+		font-family: 'Marmelad', sans-serif;
+		font-family: 'Montserrat', sans-serif;
+			font-size: 24px;
+			font-style: normal;
+			font-weight: 400;
+		}
+		
+		.navi {
+			
+		color: #75AAD9;
+		font-family: 'Actor', sans-serif;
+		font-family: 'Marck Script', cursive;
+		font-family: 'Marmelad', sans-serif;
+		font-family: 'Montserrat', sans-serif;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 400;
+
+		text-decoration: none;
+		margin-right: 40px;
+		height: 28px;
+		display: flex;
+		align-items: center;
+		}
+	
+	
+	.header-line {
+		position: absolute;
+		top: 52px;
+		left: 510px;
+	}
+	
+	
+	.me{
+		width: 222px;
+		color: #75AAD9;
+		position: absolute;
+		top: 52px;
+		left: 1317px;
+		font-family: Montserrat;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 500;
+		line-height: normal;
+		text-decoration: none;
+	}
+	
+	
+	.z1{
+		width: 486px;
+		color: #000;
+		font-family: Montserrat;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		position: absolute;
+		top: 363px;
+		left: 280px;
+	}
+	
+	.video3{
+		position: relative;
+		width: 700px;
+		height: 396px;
+		top: 240px;
+		left: 856px;
+	}
+	
+	.praktic{
+		position: relative;
+		
+		color: #000;
+		top: 283px;
+		left: 277px;
+		color: #000;
+		
+		font-family: Montserrat;
+		font-size: 40px;
+		font-style: normal;
+		font-weight: 600;
+		line-height: normal;
+			}
+			
+	.text{
+		position: absolute;
+		top: 418px;
+		left: 280px;
+		width: 498px;
+		height: 250px;
+
+		color: #000;
+		font-family: Montserrat;
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 300;
+		line-height: normal;
+		
+	}		
+	
+	.img1{
+		position: relative;
+		top: 97px;
+		
+	}
+	
+	.img2{
+		position: absolute;
+		top: 97px;
+		left: 1200px;
+	}
+	
+	.rectagle{
+		position: absolute;
+		top: 982px;
+	}
+	
+	.foot{
+		position: absolute;
+		left: 831px;
+		top: 1024px;
+		color: #FFF;
+		font-family: Actor;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 400;
+	}
